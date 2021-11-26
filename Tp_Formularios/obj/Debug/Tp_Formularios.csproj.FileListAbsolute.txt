@@ -1,0 +1,14 @@
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.csprojResolveAssemblyReference.cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.MainForm.resources
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.csproj.GenerateResource.Cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\bin\Debug\Tp_Formularios.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\bin\Debug\Tp_Formularios.pdb
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.pdb
+D:\yo\Tp_Formularios\Tp_Formularios\bin\Debug\Tp_Formularios.exe
+D:\yo\Tp_Formularios\Tp_Formularios\bin\Debug\Tp_Formularios.pdb
+D:\yo\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.csprojResolveAssemblyReference.cache
+D:\yo\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.MainForm.resources
+D:\yo\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.csproj.GenerateResource.Cache
+D:\yo\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.exe
+D:\yo\Tp_Formularios\Tp_Formularios\obj\Debug\Tp_Formularios.pdb
